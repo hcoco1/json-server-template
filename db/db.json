@@ -1,26 +1,6 @@
 {
   "countries": [
     {
-      "id": 57,
-      "country": "Cote d'Ivoire",
-      "area_in_Square_Kilometers": 1525520,
-      "population": 76340351,
-      "flagUrl": "https://www.worldometers.info/img/flags/lr-flag.gif",
-      "message": [
-        "Suddenly enough book source court fly."
-      ]
-    },
-    {
-      "id": 6,
-      "country": "Liberia",
-      "area_in_Square_Kilometers": 1235374,
-      "population": 225255041,
-      "flagUrl": "https://www.worldometers.info/img/flags/sr-flag.gif",
-      "message": [
-        "Suddenly involve herself control foot design ground who."
-      ]
-    },
-    {
       "id": 36,
       "country": "Cayman Islands",
       "area_in_Square_Kilometers": 392793,
@@ -38,26 +18,6 @@
       "flagUrl": "https://www.worldometers.info/img/flags/jo-flag.gif",
       "message": [
         "Board beat among leg throw vote class."
-      ]
-    },
-    {
-      "id": 178,
-      "country": "South Georgia and the South Sandwich Islands",
-      "area_in_Square_Kilometers": 1876590,
-      "population": 251601309,
-      "flagUrl": "https://www.worldometers.info/img/flags/bi-flag.gif",
-      "message": [
-        "Water still discover."
-      ]
-    },
-    {
-      "id": 191,
-      "country": "Equatorial Guinea",
-      "area_in_Square_Kilometers": 1528252,
-      "population": 100952692,
-      "flagUrl": "https://www.worldometers.info/img/flags/lr-flag.gif",
-      "message": [
-        "Record box cup company sure factor."
       ]
     },
     {
@@ -121,16 +81,6 @@
       ]
     },
     {
-      "id": 41,
-      "country": "Latvia",
-      "area_in_Square_Kilometers": 1675768,
-      "population": 76593540,
-      "flagUrl": "https://www.worldometers.info/img/flags/va-flag.gif",
-      "message": [
-        "Human beyond child child reason voice."
-      ]
-    },
-    {
       "id": 195,
       "country": "Slovakia (Slovak Republic)",
       "area_in_Square_Kilometers": 1644682,
@@ -150,26 +100,7 @@
         "Standard product professional should."
       ]
     },
-    {
-      "id": 35,
-      "country": "Marshall Islands",
-      "area_in_Square_Kilometers": 313528,
-      "population": 256867831,
-      "flagUrl": "https://www.worldometers.info/img/flags/gw-flag.gif",
-      "message": [
-        "Baby have your television plant per war charge."
-      ]
-    },
-    {
-      "id": 152,
-      "country": "Kiribati",
-      "area_in_Square_Kilometers": 1427724,
-      "population": 35864499,
-      "flagUrl": "https://www.worldometers.info/img/flags/om-flag.gif",
-      "message": [
-        "Treat interesting table list office."
-      ]
-    },
+
     {
       "id": 102,
       "country": "Iran",
@@ -210,16 +141,7 @@
         "Trial leave fill."
       ]
     },
-    {
-      "id": 168,
-      "country": "Ireland",
-      "area_in_Square_Kilometers": 365018,
-      "population": 164651005,
-      "flagUrl": "https://www.worldometers.info/img/flags/bw-flag.gif",
-      "message": [
-        "Personal half put."
-      ]
-    },
+
     {
       "id": 18,
       "country": "Cyprus",
@@ -291,46 +213,6 @@
       ]
     },
     {
-      "id": 56,
-      "country": "Croatia",
-      "area_in_Square_Kilometers": 1566084,
-      "population": 239478488,
-      "flagUrl": "https://www.worldometers.info/img/flags/de-flag.gif",
-      "message": [
-        "Yeah husband air dark music arm great save."
-      ]
-    },
-    {
-      "id": 44,
-      "country": "Samoa",
-      "area_in_Square_Kilometers": 138467,
-      "population": 249819514,
-      "flagUrl": "https://www.worldometers.info/img/flags/mm-flag.gif",
-      "message": [
-        "Plant out occur sport research both."
-      ]
-    },
-    {
-      "id": 112,
-      "country": "Afghanistan",
-      "area_in_Square_Kilometers": 722889,
-      "population": 242975430,
-      "flagUrl": "https://www.worldometers.info/img/flags/tm-flag.gif",
-      "message": [
-        "Carry sister sport focus deal happen couple song."
-      ]
-    },
-    {
-      "id": 170,
-      "country": "Faroe Islands",
-      "area_in_Square_Kilometers": 496091,
-      "population": 287296691,
-      "flagUrl": "https://www.worldometers.info/img/flags/vu-flag.gif",
-      "message": [
-        "Network research he score than physical bit."
-      ]
-    },
-    {
       "id": 21,
       "country": "Honduras",
       "area_in_Square_Kilometers": 1962851,
@@ -338,16 +220,6 @@
       "flagUrl": "https://www.worldometers.info/img/flags/nl-flag.gif",
       "message": [
         "Might student democratic cold."
-      ]
-    },
-    {
-      "id": 63,
-      "country": "Lao People's Democratic Republic",
-      "area_in_Square_Kilometers": 976903,
-      "population": 206768214,
-      "flagUrl": "https://www.worldometers.info/img/flags/ru-flag.gif",
-      "message": [
-        "Class assume hospital ball south Mrs."
       ]
     },
     {
@@ -381,26 +253,6 @@
       ]
     },
     {
-      "id": 155,
-      "country": "Kiribati",
-      "area_in_Square_Kilometers": 1643431,
-      "population": 194581340,
-      "flagUrl": "https://www.worldometers.info/img/flags/kw-flag.gif",
-      "message": [
-        "Despite national far whom hour court."
-      ]
-    },
-    {
-      "id": 125,
-      "country": "Hong Kong",
-      "area_in_Square_Kilometers": 1965637,
-      "population": 99922651,
-      "flagUrl": "https://www.worldometers.info/img/flags/vn-flag.gif",
-      "message": [
-        "Them offer dog head apply guy."
-      ]
-    },
-    {
       "id": 43,
       "country": "Zambia",
       "area_in_Square_Kilometers": 1518729,
@@ -408,46 +260,6 @@
       "flagUrl": "https://www.worldometers.info/img/flags/vc-flag.gif",
       "message": [
         "Stock thought agree spend shoulder."
-      ]
-    },
-    {
-      "id": 99,
-      "country": "Mauritania",
-      "area_in_Square_Kilometers": 254820,
-      "population": 36259825,
-      "flagUrl": "https://www.worldometers.info/img/flags/ad-flag.gif",
-      "message": [
-        "Edge sea old order baby night general."
-      ]
-    },
-    {
-      "id": 130,
-      "country": "Kyrgyz Republic",
-      "area_in_Square_Kilometers": 1064199,
-      "population": 56874058,
-      "flagUrl": "https://www.worldometers.info/img/flags/dk-flag.gif",
-      "message": [
-        "Official until low figure."
-      ]
-    },
-    {
-      "id": 7,
-      "country": "Czech Republic",
-      "area_in_Square_Kilometers": 1660688,
-      "population": 80502383,
-      "flagUrl": "https://www.worldometers.info/img/flags/zw-flag.gif",
-      "message": [
-        "Couple be subject enjoy image start top."
-      ]
-    },
-    {
-      "id": 150,
-      "country": "Honduras",
-      "area_in_Square_Kilometers": 624657,
-      "population": 243278017,
-      "flagUrl": "https://www.worldometers.info/img/flags/bw-flag.gif",
-      "message": [
-        "Because two management including interesting interest cover."
       ]
     },
     {
@@ -478,16 +290,6 @@
       "flagUrl": "https://www.worldometers.info/img/flags/ga-flag.gif",
       "message": [
         "Since red area final."
-      ]
-    },
-    {
-      "id": 63,
-      "country": "Zimbabwe",
-      "area_in_Square_Kilometers": 1801218,
-      "population": 210396407,
-      "flagUrl": "https://www.worldometers.info/img/flags/sr-flag.gif",
-      "message": [
-        "Course policy bank read again seek."
       ]
     },
     {
